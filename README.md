@@ -1,2 +1,2 @@
 # website
-Personal website
+The official website of Yuta Kikkawa
